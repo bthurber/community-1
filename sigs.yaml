@@ -2107,9 +2107,9 @@ sigs:
       slack: security-profiles-operator
     owners:
     - https://raw.githubusercontent.com/kubernetes-sigs/security-profiles-operator/master/OWNERS
-  - name: special-resource-operator
+  - name: kernel-module-management
     owners:
-    - https://raw.githubusercontent.com/kubernetes-sigs/special-resource-operator/main/OWNERS
+    - https://raw.githubusercontent.com/kubernetes-sigs/kernel-module-mangement/main/OWNERS
 - dir: sig-release
   name: Release
   mission_statement: >
